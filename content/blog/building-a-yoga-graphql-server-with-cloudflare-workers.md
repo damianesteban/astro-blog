@@ -2,7 +2,7 @@
 external: false
 title: "Building a Serverless GraphQL Yoga Server with TypeScript on Cloudflare Workers"
 description: "Join Damian Esteban in exploring how to build a GraphQL Yoga server using TypeScript and deploying it on Cloudflare Workers"
-ogImagePath: "https://e6efa4d877c22dc8d63ec7ab9b86489d.r2.cloudflarestorage.com/blog-images/orange-superhero.png"
+ogImagePath: "https://cdn.damianesteban.dev/orange-superhero.png"
 date: 2023-07-28
 ---
 
@@ -10,7 +10,7 @@ Hello, friends! I'm thrilled to launch a series of blog posts focused on [Cloudf
 
 Cloudflare Workers is a trailblazer in edge computing, executing code near the user for enhanced speed and security. It's like having a superhuman guardian for your web application, ensuring rapid and secure delivery. The next time I have the opportunity to build a platform from scratch, I plan to make heavy use of Cloudflare Workers. If you are interested in knowing more, please reach out to me 😉.
 
-![Damian Esteban - Cloudflare Workers Superhero](https://e6efa4d877c22dc8d63ec7ab9b86489d.r2.cloudflarestorage.com/blog-images/orange-superhero.png)
+![Damian Esteban - Cloudflare Workers Superhero](https://cdn.damianesteban.dev/orange-superhero.png)
 
 As a huge supporter of this platform, I'm eager to showcase its capabilities. In this series, we'll explore Cloudflare Workers, experiment with its features like [KV](https://developers.cloudflare.com/workers/runtime-apis/kv/), [Durable Objects](https://developers.cloudflare.com/workers/runtime-apis/durable-objects/), [Cloudflare Queues](https://developers.cloudflare.com/queues/), and [D1](https://developers.cloudflare.com/d1/).
 

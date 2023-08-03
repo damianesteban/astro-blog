@@ -2,7 +2,7 @@
 external: false
 title: "Counteracting bias in AI"
 description: "Exploring the Unintentional Integration of Bias in AI - This insightful blog post delves into the fascinating yet concerning issue of inherent biases being unconsciously integrated into artificial intelligence (AI) systems. Analyzing the nature of machine learning, the article highlights how AI, by learning language and patterns, inadvertently picks up human prejudices. It discusses an intriguing study by researchers from Princeton University that revealed implicit bias in AI's word associations. The post warns of the significant impact these biases can have on our society and underscores the need for strategies to counteract bias in the future development of AI. A must-read for anyone interested in the ethical implications of AI and machine learning."
-ogImagePath: "images/robot.png"
+ogImagePath: "https://cdn.damianesteban.dev/robot.png"
 date: 2018-09-01
 ---
 
@@ -10,7 +10,7 @@ Everybody is prone to bias in some regard. Much of it is largely innocuous; if y
 
 AI is one of the biggest technologies currently being utilized, studied, and expanded upon. It’s flexible and useful, allowing us to automate many processes that would take a human a long time to complete. Some aspects of AI, such as machine learning, allow us to create predictive analytics that can find patterns that would take years to discover manually.
 
-![AI](/images/robot.png)
+![AI](https://cdn.damianesteban.dev/robot.png)
 
 However, as machines learn, they’ve picked up some not-so-desirable traits along the way as well.
 

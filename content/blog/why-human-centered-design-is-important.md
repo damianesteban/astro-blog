@@ -2,7 +2,7 @@
 external: false
 title: "Why human centered design is important"
 description: "This insightful blog post emphasizes the importance of prioritizing human needs and experiences in the design and development of products and services in our rapidly-evolving tech era. The author critiques the tendency of many companies to push the boundaries of technological innovation, often neglecting to consider the wants and needs of their users. This is where Human-Centered Design (HCD) comes into play, striving to find the perfect intersection between desirability, feasibility, and viability. The post illustrates the concept with real-world examples, such as the popularity of Waze due to its user-centric features. The piece also advocates for ongoing user involvement in the creation and refinement of products, emphasizing that effective design is not only about appealing aesthetics, but also about how well a product aligns with user behavior. Overall, this post makes a compelling case for embracing HCD in the age of automation to foster empathy between creators and users, ensuring that technological advancements truly serve people's needs."
-ogImagePath: "images/human.webp"
+ogImagePath: "https://cdn.damianesteban.dev/human.webp"
 date: 2017-12-18
 ---
 
@@ -10,7 +10,7 @@ In this age of rampant startups, ever-expanding technology, and readily accessed
 
 **Hint**: it’s not robots. At least, not for the most part.
 
-![AI](/images/human.webp)
+![AI](https://cdn.damianesteban.dev/human.webp)
 
 Humans, the “users” in such buzzphrases as “user experience” and “user interface” play a significant role in the direction of innovation. It may sound obvious, but a surprising number of companies have made blunders by making decisions that they think their customers will appreciate — without actually consulting any of them. This coupled with the rise of machine algorithms designed to make decisions such as content delivery based on a personal profile further distances some companies from the people they serve.
 
