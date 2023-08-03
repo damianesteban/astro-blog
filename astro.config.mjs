@@ -27,7 +27,7 @@ if (isBuild) {
   BASE_URL = LIVE_URL;
 }
 
-import serviceWorker from "@astrojs/service-worker";
+import serviceWorker from "astrojs-service-worker";
 
 export default defineConfig({
   server: { port: SERVER_PORT },
