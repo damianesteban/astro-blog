@@ -1,8 +1,8 @@
 ---
 external: false
 title: "How to Integrate with an EMR as a Digital Healthcare Startup"
-description: "Overcoming Interoperability Challenges in Healthcare: The EMR Integration Journey - In this informative post, the author discusses the critical challenge of interoperability among Electronic Medical Records (EMR) systems within the American healthcare system. The article explores the role of common messaging standards like HL7v2 and FHIR, and the complications that arise due to their inconsistent adoption. The post provides a firsthand perspective on integrating with EMR systems, drawing from the experience at BetterHealthcare. It outlines key requirements such as patience, flexibility, and a willingness to learn, with insights into the technical aspects, like handling HL7 messages. Readers also get a sneak-peek into forthcoming detailed posts about different approaches to send and receive data from an EMR. The blog serves as a valuable resource for healthcare startups and others interested in the intricacies of healthcare data interoperability."
-ogImagePath: "https://cdn.damianesteban.dev/pipes.png"
+description: "In this informative post, Damian Esteban discusses the critical challenge of interoperability among Electronic Medical Records (EMR) systems within the American healthcare system. The article explores the role of common messaging standards like HL7v2 and FHIR, and the complications that arise due to their inconsistent adoption. The post provides a firsthand perspective on integrating with EMR systems, drawing from the experience at BetterHealthcare. It outlines key requirements such as patience, flexibility, and a willingness to learn, with insights into the technical aspects, like handling HL7 messages. Readers also get a sneak-peek into forthcoming detailed posts about different approaches to send and receive data from an EMR. The blog serves as a valuable resource for healthcare startups and others interested in the intricacies of healthcare data interoperability."
+ogImagePath: "https://cdn.damianesteban.dev/pipes.webp"
 date: 2021-12-11
 ---
 
@@ -10,7 +10,7 @@ date: 2021-12-11
 
 The biggest technical challenge facing the American Healthcare System is the lack of interoperability between EMRs,largely due to the lack of a strong standard protocol. While [HL7v2](https://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) is the most widely used messaging standard among Healthcare systems, it has loose and optional definitions which lead to discrepancies, and many application vendors do not support the latest and best-defined versions of HL7.    
 
-![AI](https://cdn.damianesteban.dev/pipes.png)
+![AI](https://cdn.damianesteban.dev/pipes.webp)
 
 [FHIR](https://fhir.org/) is a modern and robust standard that could solve this problem, but adoption is slow. Unless you are working with the major players like [Epic](https://fhir.epic.com/), [Cerner](https://fhir.cerner.com/), [AllScripts](https://developer.allscripts.com/content/fhir/), or a handful of others it is unlikely that FHIR is an option.
 
