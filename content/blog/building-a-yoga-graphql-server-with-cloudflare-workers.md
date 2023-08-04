@@ -1,7 +1,7 @@
 ---
 external: false
-title: "Building a Serverless GraphQL Yoga Server with TypeScript on Cloudflare Workers"
-description: "Join Damian Esteban in exploring how to build a GraphQL Yoga server using TypeScript and deploying it on Cloudflare Workers"
+title: "Building a Serverless GraphQL Yoga Server with TypeScript on Cloudflare Workers with Cloudflare KV"
+description: "Join Damian Esteban in exploring how to build a GraphQL Yoga server using TypeScript and deploying it on Cloudflare Workers with Cloudflare KV for persistence."
 ogImagePath: "https://cdn.damianesteban.dev/orange-superhero.webp"
 date: 2023-07-28
 ---
