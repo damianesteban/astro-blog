@@ -128,9 +128,6 @@ pub async fn main(req: Request, env: Env, _ctx: Context) -> Result<Response> {
   };
 
   let router = Router::with_data(shared_data);
-
-  // ... router configuration ...
-
   router.run(req, env).await
 }
 ```
