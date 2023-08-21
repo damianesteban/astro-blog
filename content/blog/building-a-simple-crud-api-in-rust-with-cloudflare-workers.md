@@ -40,20 +40,21 @@ In this tutorial, we'll use Rust and Workers to build a simple CRUD (Create, Rea
 
 Our API will support the following endpoints:
 
-`POST /rescues` - Create a new animal rescue record
-`PUT /rescues/:id` - Update an existing rescue record
-`DELETE /rescues/:id` - Delete a rescue record
-`GET /rescues` - Get all rescue records
-`GET /rescue/:id` - Get a rescue record by ID
-`GET /shared-data` - Get some shared data accessible across requests
+- `POST /rescues` - Create a new animal rescue record
+- `PUT /rescues/:id` - Update an existing rescue record
+- `DELETE /rescues/:id` - Delete a rescue record
+- `GET /rescues` - Get all rescue records
+- `GET /rescue/:id` - Get a rescue record by ID
+- `GET /shared-data` - Get some shared data accessible across requests
 
 We'll store the rescue records in Workers KV, a fast key-value data store provided by Cloudflare.
 
 For the API code, we'll use:
 
-[worker](https://crates.io/crates/worker) - The Rust framework for writing Cloudflare Workers
-[serde](https://crates.io/crates/serde) - Popular Rust serialization/deserialization library
-[serde_json](https://crates.io/crates/serde_json) - Serde JSON support
+- [worker](https://crates.io/crates/worker) - The Rust framework for writing Cloudflare Workers
+- [serde](https://crates.io/crates/serde) - Popular Rust serialization/deserialization library
+- [serde_json](https://crates.io/crates/serde_json) - Serde JSON support
+- [futures](https://docs.rs/futures/latest/futures/) - Asynchronous programming in Rust
 
 # Get Started
 
