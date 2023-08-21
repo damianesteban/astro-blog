@@ -1,6 +1,6 @@
 ---
 external: false
-title: "A Simple CRUD API in Rust with Cloudflare Workers and the Rust Router"
+title: "A Simple CRUD API in Rust with Cloudflare Workers, Cloudflare KV, and the Rust Router"
 description: "In this tutorial, software engineer Damian Esteban teaches you how to build a CRUD API using Rust and Cloudflare Workers. Learn how to leverage Rust's speed and safety to create low-latency, resilient serverless functions. The guide covers architecting endpoints, serializing and deserializing data, and integrating with Workers KV. Whether you're new to Rust or an experienced developer, this tutorial will level up your API development skills and show you how Rust supercharges Cloudflare Workers."
 ogImagePath: "https://cdn.damianesteban.dev/rusty-robot.webp"
 date: 2023-08-20
