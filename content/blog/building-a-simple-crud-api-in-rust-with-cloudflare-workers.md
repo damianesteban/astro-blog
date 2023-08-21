@@ -6,7 +6,7 @@ ogImagePath: "https://cdn.damianesteban.dev/rusty-robot.webp"
 date: 2023-08-20
 ---
 
-# A Simple CRUD API in Rust with Cloudflare Workers and the Rust Router
+# Introduction
 
 Greetings readers! I had originally planned to cover Cloudflare Durable Objects in this post. However, I've decided to hold off on that topic until we dig into some more Rust basics for Cloudflare Workers.
 
