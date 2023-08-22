@@ -47,9 +47,7 @@ Our API will support the following endpoints:
 - `GET /rescue/:id` - Get a rescue record by ID
 - `GET /shared-data` - Get some shared data accessible across requests
 
-We'll store the rescue records in Workers KV, a fast key-value data store provided by Cloudflare.
-
-For the API code, we'll use:
+We will use the following libraries:
 
 - [worker](https://crates.io/crates/worker) - The Rust framework for writing Cloudflare Workers
 - [serde](https://crates.io/crates/serde) - Popular Rust serialization/deserialization library
