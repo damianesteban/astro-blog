@@ -6,7 +6,7 @@ ogImagePath: "https://cdn.damianesteban.dev/prisma-postgis.webp"
 date: 2025-06-16
 ---
 
-[Prisma and PostGIS](https://cdn.damianesteban.dev/prisma-postgis.webp)
+![Prisma and PostGIS](https://cdn.damianesteban.dev/prisma-postgis.webp)
 
 # Introduction
 
