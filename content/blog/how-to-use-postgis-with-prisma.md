@@ -6,6 +6,8 @@ ogImagePath: "https://cdn.damianesteban.dev/prisma-postgis.webp"
 date: 2025-06-16
 ---
 
+[Prisma and PostGIS](https://cdn.damianesteban.dev/prisma-postgis.webp)
+
 # Introduction
 
 Greetings, readers! While building a geospatial conflict data aggregator, I needed to store and query latitude/longitude points from datasets like UCDP and military installations. That meant using **PostGIS** — the spatial extension for PostgreSQL — and integrating it cleanly into my TypeScript Prisma workflow.
